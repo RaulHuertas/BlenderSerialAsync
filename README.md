@@ -2,7 +2,7 @@
 A demo script of serial communicat using the asynIO in blender. 
 
 You need an endpoint that sends either '+' or '-'.
-An adafruit macropad sketch is included
+An adafruit macropad sketch is included(code.py)
 
 INSTRUCTIONS:
 
