@@ -1,5 +1,5 @@
 # BlenderSerialAsync
-A demo script of serial communicat using the asynIO in blender. 
+A demo script of serial communication using the asyncIO library in Blender3D.
 
 You need an endpoint that sends either '+' or '-'.
 An adafruit macropad sketch is included(code.py)
